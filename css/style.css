@@ -1,0 +1,53 @@
+/* SELETORES
+
+//NOME DE ELEMENTO
+//CLASSES 
+//ID 
+
+*/
+ 
+body{
+    background-color:red;
+  }
+  .nome{
+    color:#000;
+    background-color:#fff;
+    
+  }
+  #nomeTiago{
+    font-size:30px;
+    font-size:50%;
+  }
+  
+  p{
+    display:block;
+  }
+  
+  strong{
+    display:block;
+    background-color:#fff;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /* UNIDADE DE MEDIDA
+  
+  //PX
+  //%
+  
+  */
+  
+  
+  
+  
+  /* POSICIONAMENTO
+  
+  //DISPLAY 
+  
+  */
