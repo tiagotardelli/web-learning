@@ -1,0 +1,36 @@
+#excited {
+    color:green;
+}
+
+.text {
+    color: white;
+    background-color: #3c86e1;
+    padding: 10px;
+}
+
+.mainTitle {
+    text-align: center;
+}
+
+#unavaliable > a {
+    color: pink;
+}
+
+#titleLearning {
+    text-align: center;
+    font-size: 10px;
+    color: #1c3869;
+}
+
+.knowMore {
+    margin: 5px;
+    padding: 10px;
+    border-style: dotted;
+    border-color: #3c86e1;
+}
+
+.content {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
