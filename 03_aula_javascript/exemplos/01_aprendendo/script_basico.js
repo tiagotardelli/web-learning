@@ -78,7 +78,8 @@ console.log(listaMista)
 //subtração: -
 //divisão: /
 //mutiplicação: *
-
+//resto: %
+/*
 let soma = 2 + 4
 console.log(soma)
 
@@ -92,5 +93,75 @@ let multiplicacao = 2 * 4
 console.log(multiplicacao)
 
 
+let numero1 = 10
+let numero2 = 20
+console.log(numero1+numero2)
+let somaNumeros = numero1 + numero2
+console.log(somaNumeros)
+
+let resto = 10 % 20
+console.log(resto)
+*/
+//#############################################################################
+/* Estruturas condicionais 
+Operadores de comparação:
+== -> compara se dois elementos são exatamente iguais
+=== -> verifica se as variáveis são do mesmo tipo
+> -> se um é maior que outro
+< -> se um é menor que outro
+>= -> se um é igual e maior que outro
+<= -> se um é igual e menor que outro
+*/
+/*
+console.log(1 == 1) // true
+console.log(1 == 0) // false
+console.log(1 > 0) // true
+console.log(1 < 0) // false
+console.log(12 == 12) //true
+console.log(12 === "12") //false 
+
+// Operadores de atribuição
+let numero = 10;
+console.log(numero += 5)
+console.log(numero -= 5)
+console.log(numero *= 5)
+console.log(numero /= 5)
+console.log(numero %= 5)
+
+//exibe e depois agrega
+let numero2 = 10
+console.log(numero2++) 
+console.log(numero2++)
+console.log(numero2--)
+console.log(numero2--)
+
+//agrega primeiro e depois exibe
+let numero3 = 20
+console.log(++numero3)
+console.log(--numero3)
+*/
 
 
+/* Operadores lógicos
+E: &&
+Ou: ||
+Não/negação: !
+*/
+/*
+console.log(1 == 1 && 0 == 0) // true
+console.log(1 == 1 && 1 == 0) // false
+
+console.log(1 == 1 || 1 == 0) // true
+console.log(2 == 1 || 1 == 0) // false
+
+console.log(!1 == 1) // false
+console.log(!1 == 0) // true
+
+if(1 == 1){
+    console.log('1 é igual a 1!!')
+}
+else {
+    console.log('1 é diferente')
+}
+*/
+  

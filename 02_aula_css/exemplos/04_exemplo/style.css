@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    max-width: 1010px;
+    justify-content: center;
+    background-color: #000;
+    padding: 15px 0;
+    flex-wrap: wrap;
+}
+
+.item{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    background-color: rgb(138, 71, 82);
+}
+
+@media screen and (min-width: 620px) {
+    .container{
+        flex-wrap: nowrap;
+    }
+    .item{
+        background-color: pink;
+    }
+}
