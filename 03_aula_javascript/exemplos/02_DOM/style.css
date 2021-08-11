@@ -1,0 +1,27 @@
+html {
+    background-color: lightblue;
+}
+
+.fundo-verde {
+    background-color: darkgreen;
+}
+
+.linha {
+    display: table;
+    width: auto;
+    background-color: #8b0000;
+    border: 1px solid lightcyan;
+    border-spacing: 5px;
+}
+
+span {
+    display: table-row;
+    width: auto;
+}
+
+.coluna {
+    float: left;
+    display: table-column;
+    width: 100px;
+    background-color: #ccc;
+}
